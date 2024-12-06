@@ -1,0 +1,8 @@
+__pycache__/
+data/
+.vscode/
+out/
+.DS_Store
+*.zip
+wandb/
+logs/
