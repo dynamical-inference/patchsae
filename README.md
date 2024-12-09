@@ -1,6 +1,6 @@
 # Sparse autoencoders reveal selective remapping of visual concepts during adaptation
 
-[[🔗 website & 🤗 demo](https://dynamical-inference.ai/patchsae)] [[📑 pre-print](https://arxiv.org/abs/#)]
+[[🔗 website & 🤗 demo](https://dynamical-inference.ai/patchsae)] [[📑 pre-print](https://arxiv.org/abs/2412.05276)]
 
 Implementation of PatchSAE as presented in "Sparse autoencoders reveal selective remapping of visual concepts during adaptation" (Lim et al., 2024).
 
