@@ -6,7 +6,7 @@
 [![Hugging Face Demo](https://img.shields.io/badge/🤗_Hugging_Face-Demo-yellow)](https://huggingface.co/spaces/dynamical-inference/patchsae-demo)
 
 <div align="center">
-    <img width="800" alt="PatchSAE visualization" src="https://github.com/hyesulim/patchsae/blob/release/assets/sae_arch.gif">
+    <img width="800" alt="PatchSAE visualization" src="./assets/sae_arch.gif">
 </div>
 
 ## 🚀 Quick Navigation
@@ -42,7 +42,7 @@ Explore our pre-computed images and SAE latents without any installation!
 > 💡 The demo may experience slowdowns due to network constraints. For optimal performance, consider disabling your VPN if you encounter any delays.
 
 <div align="center">
-    <img width="390" alt="Demo interface" src="https://github.com/user-attachments/assets/97d3f862-36c9-4a76-80b6-5dbf90a3116a">
+    <img width="390" alt="Demo interface" src="./assets/demo_overview.png">
 </div>
 
 
@@ -101,10 +101,10 @@ PYTHONPATH=./ python src/demo/app.py
 
 ## 📊 PatchSAE Training and Analysis
 
-- **Training Instructions**: See [tasks/README.md](https://github.com/hyesulim/patchsae/blob/release/tasks/README.md)
+- **Training Instructions**: See [tasks/README.md](./tasks/README.md)
 - **Analysis Notebooks**:
-  - [demo.ipynb](https://github.com/hyesulim/patchsae/blob/main/demo.ipynb)
-  - [analysis.ipynb](https://github.com/hyesulim/patchsae/blob/main/analysis/analysis.ipynb)
+  - [demo.ipynb](./demo.ipynb)
+  - [analysis.ipynb](./analysis/analysis.ipynb)
 
 ## 📝 Status Updates
 
@@ -140,7 +140,7 @@ If you find our code or models useful in your work, please cite our [paper](http
 
 ```
 @inproceedings{
-  lim2025sparse,
+  lim2025patchsae,
   title={Sparse autoencoders reveal selective remapping of visual concepts during adaptation},
   author={Hyesu Lim and Jinho Choi and Jaegul Choo and Steffen Schneider},
   booktitle={The Thirteenth International Conference on Learning Representations},
