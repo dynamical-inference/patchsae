@@ -70,8 +70,8 @@ conda activate patchsae
 pip install gdown
 
 # Download necessary files (35MB + 513MB)
-gdown --id 1NJzF8PriKz_mopBY4l8_44R0FVi2uw2g  # out.zip
-gdown --id 1reuDjXsiMkntf1JJPLC5a3CcWuJ6Ji3Z  # data.zip
+gdown 1NJzF8PriKz_mopBY4l8_44R0FVi2uw2g  # out.zip
+gdown 1reuDjXsiMkntf1JJPLC5a3CcWuJ6Ji3Z  # data.zip
 
 # Extract files
 unzip data.zip
