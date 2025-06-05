@@ -27,10 +27,13 @@ conda create --name patchsae python=3.12
 conda activate patchsae
 
 # Install dependencies
-pip install -r requirements.txt
-
-# Always set PYTHONPATH before running any scripts
 cd patchsae
+pip install -r requirements.txt
+```
+
+When running any scripts, make sure to always set the `PYTHONPATH`. For example, to run the demo in `app.py`:
+
+```bash
 PYTHONPATH=./ python src/demo/app.py
 ```
 
@@ -60,7 +63,11 @@ First, download the necessary files:
 You can download the files using `gdown` as follows:
 
 ```bash
-# Activate environment first (see Getting Started)
+# Activate environment
+conda activate patchsae
+
+# Install gdown (if not installed yet)
+pip install gdown
 
 # Download necessary files (35MB + 513MB)
 gdown --id 1NJzF8PriKz_mopBY4l8_44R0FVi2uw2g  # out.zip
