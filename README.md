@@ -62,12 +62,11 @@ First, download the necessary files:
 
 You can download the files using `gdown` as follows:
 
+> 💡 Need `gdown`? Install it with: `conda install conda-forge::gdown` or `pip install gdown`
+
 ```bash
 # Activate environment
 conda activate patchsae
-
-# Install gdown (if not installed yet)
-pip install gdown
 
 # Download necessary files (35MB + 513MB)
 gdown 1NJzF8PriKz_mopBY4l8_44R0FVi2uw2g  # out.zip
@@ -78,7 +77,6 @@ unzip data.zip
 unzip out.zip
 ```
 
-> 💡 Need `gdown`? Install it with: `conda install conda-forge::gdown`
 
 Your folder structure should look like:
 
