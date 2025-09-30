@@ -41,6 +41,10 @@ PYTHONPATH=./ python src/demo/app.py
 Explore our pre-computed images and SAE latents without any installation!
 > 💡 The demo may experience slowdowns due to network constraints. For optimal performance, consider disabling your VPN if you encounter any delays.
 
+
+https://github.com/user-attachments/assets/0771a224-dd5b-485e-ba94-3b0b4f0150e1
+
+
 <div align="center">
     <img width="390" alt="Demo interface" src="./assets/demo_overview.png">
 </div>
