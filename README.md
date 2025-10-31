@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/📑_Paper-arXiv-red)](https://arxiv.org/abs/2412.05276)
 [![OpenReview](https://img.shields.io/badge/OpenReview-ICLR_2025-green)](https://openreview.net/forum?id=imT03YXlG2)
-[![Poster & Slides & Video](https://img.shields.io/badge/Poster-ICLR_2025-green)](https://iclr.cc/virtual/2025/poster/28675)
+[![Poster & Slides & Video](https://img.shields.io/badge/Poster_Slide_Video-ICLR_2025-green)](https://iclr.cc/virtual/2025/poster/28675)
 
 > NOTE: Demo is currently down; work-in-progress
 [![Website & Demo](https://img.shields.io/badge/🔗_Website_&_Demo-blue)](https://dynamical-inference.ai/patchsae/)
