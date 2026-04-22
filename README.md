@@ -12,6 +12,11 @@
     <img width="800" alt="PatchSAE visualization" src="./assets/sae_arch.gif">
 </div>
 
+> 🏎️ **Looking for a faster, cleaner version?**
+> We've released **[FastSAE](https://github.com/dynamical-inference/fastsae)** — a refactored, pip-installable library built on the same ideas as PatchSAE. It supports efficient caching, sklearn-style training, and HuggingFace model loading. New users and new projects should start there.
+>
+> This repository remains available as the **reference implementation** for the paper.
+
 ## 🚀 Quick Navigation
 
 - [Getting Started](#-getting-started)
@@ -21,6 +26,8 @@
 - [License & Credits](#-license--credits)
 
 ## 🛠 Getting Started
+
+> ℹ️ **Before you install:** For new projects, we recommend using **[FastSAE](https://github.com/dynamical-inference/fastsae)** — a refactored, pip-installable successor that reproduces the same experiments via a packaged API. This repo's install steps below still work for reproducing the paper.
 
 Set up your environment with these simple steps:
 
